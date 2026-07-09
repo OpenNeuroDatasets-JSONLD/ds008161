@@ -1,0 +1,62 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Laura Raiff
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0007-4689-4934
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Gabrielle Bulter
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Kailyn McFarlane
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Bharath Chandrasekaran
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Kevin Sitek
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-2172-5786
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 5
+    creators:
+      - name: Laura Raiff
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Gabrielle Bulter
+        nameType: Personal
+      - name: Kailyn McFarlane
+        nameType: Personal
+      - name: Bharath Chandrasekaran
+        nameType: Personal
+      - name: Kevin Sitek
+        nameType: Personal
+        nameIdentifiers: *ref_1
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
