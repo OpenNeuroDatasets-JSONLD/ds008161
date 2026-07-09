@@ -34,13 +34,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Kevin Sitek
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
     creators:
       - name: Laura Raiff
         nameType: Personal
@@ -50,8 +43,6 @@ data:
       - name: Kailyn McFarlane
         nameType: Personal
       - name: Bharath Chandrasekaran
-        nameType: Personal
-      - name: Kevin Sitek
         nameType: Personal
     descriptions:
       - description: N/A
