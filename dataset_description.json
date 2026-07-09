@@ -9,6 +9,10 @@
         "Bharath Chandrasekaran",
         "Kevin R. Sitek"
     ],
-    "Funding": ["R21DC022906",
-                "K01DC019421"]
+    "Funding": [
+        "R21DC022906",
+        "K01DC019421"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008161.v1.0.2",
+    "License": "CC0"
 }
