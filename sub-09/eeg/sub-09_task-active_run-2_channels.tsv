@@ -1,0 +1,6 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+M1	EEG	µV	0.0	3334.0	ElectroEncephaloGram	16384.0	good	n/a
+M2	EEG	µV	0.0	3334.0	ElectroEncephaloGram	16384.0	good	n/a
+Cz	EEG	µV	0.0	3334.0	ElectroEncephaloGram	16384.0	good	n/a
+Erg1	EEG	µV	0.0	3334.0	ElectroEncephaloGram	16384.0	good	n/a
+Status	TRIG	n/a	0.0	3334.0	Trigger	16384.0	good	n/a
