@@ -1,11 +1,14 @@
 {
-    "Name": "Auditory-motor EEG (one-channel)",
+    "Name": "Auditory-motor EEG (one-channel",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "[Unspecified1]",
-        "[Unspecified2]"
+        "Laura Raiff",
+        "Gabrielle Bulter",
+        "Kailyn McFarlane",
+        "Bharath Chandrasekaran",
+        "Kevin R. Sitek"
     ],
-    "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds008161.v1.0.1"
+    "Funding": ["R21DC022906",
+                "K01DC019421"]
 }
