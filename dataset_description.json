@@ -1,9 +1,10 @@
 {
-    "Name": "[Unspecified]",
+    "Name": "Auditory-motor EEG (one-channel)",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
         "[Unspecified1]",
         "[Unspecified2]"
-    ]
+    ],
+    "License": "CC0"
 }
