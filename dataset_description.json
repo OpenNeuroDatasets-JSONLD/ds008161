@@ -1,5 +1,5 @@
 {
-    "Name": "Auditory-motor EEG (one-channel",
+    "Name": "Auditory-motor EEG (one-channel)",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
